@@ -3,5 +3,5 @@
 A DBMinor Flutter project.
 
 ## GIF
-Uploading Screenrecording_20221025_200650.mp4…
+https://user-images.githubusercontent.com/111499824/197804410-2ffa1cf9-e3c4-4ac0-8622-16183d0a3111.mp4
 
