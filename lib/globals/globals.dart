@@ -20,30 +20,7 @@ List<String> mostPopular = <String>[
   "Success Quotes"
 ];
 
-// List<Map<String, dynamic>> mostPopular = [
-//   {
-//     'quotesname': "Learning Quotes",
-//     'images': "assets/images/1.jpg",
-//   },
-//   {
-//     'quotesname': "Life Quotes",
-//     'images': "assets/images/1.jpg",
-//   },
-//   {
-//     'quotesname': "Motivational Quotes",
-//     'images': "assets/images/1.jpg",
-//   },
-//   {
-//     'quotesname': "Success Quotes",
-//     'images': "assets/images/1.jpg",
-//   },
-// ];
-
 List<String> quotesByAuthor = <String>[
-  // "Motivational",
-  // "Albert Einstein",
-  // "Swami vivekananda",
-  // "Mark Twain",
   "Learning Quotes",
   "Life Quotes",
   "Motivational Quotes",
