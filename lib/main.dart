@@ -9,12 +9,13 @@ void main() {
       debugShowCheckedModeBanner: false,
       routes: {
         "/": (context) => const Homepage(),
-        "quotes_list_page": (context) => QuotesPage(),
-
+        
         ///QuotesPage(),
+        "quotes_list_page": (context) => QuotesPage(),
+        ///OpenQuotes(),
         "open_editor": (context) => Quotes_Detail_Page(),
 
-        ///OpenQuotes(),
+        
       },
     ),
   );
